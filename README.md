@@ -17,18 +17,20 @@ I'm a data analyst with 4+ years of experience working at multinational banks. I
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
 
-#### **Finance Related**
+#### **Finance**
 [![Riskfolio-Lib](https://img.shields.io/badge/Riskfolio--Lib-orange)](https://riskfolio-lib.readthedocs.io)
 [![vectorbt](https://img.shields.io/badge/vectorbt-blue)](https://vectorbt.dev)
 [![yfinance](https://img.shields.io/badge/yfinance-800080?style=flat)](https://github.com/ranaroussi/yfinance)
 [![OpenBB](https://img.shields.io/badge/OpenBB-0c33bb?style=flat&logoColor=white)](https://openbb.co)
 [![IBKR API](https://img.shields.io/badge/IBKR%20API-FF0000?style=flat)](https://www.interactivebrokers.com/en/index.php?f=5041)
 [![Polygon.io API](https://img.shields.io/badge/Polygon.io%20API-6f42c1?style=flat)](https://polygon.io/docs)
+[![TA-Lib](https://img.shields.io/badge/TA--Lib-1f77b4?style=flat)](https://ta-lib.org/)
 
 #### **Visualisation**
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=powerbi&logoColor=white&labelColor=yellow&color=yellow)
 [![Streamlit](https://img.shields.io/badge/Streamlit-red?logo=streamlit&logoColor=white&labelColor=red&color=red)](https://docs.streamlit.io)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)](https://plotly.com)
+[![Altair](https://img.shields.io/badge/Altair-1f77b4?style=flat)](https://altair-viz.github.io/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat&logo=seaborn&logoColor=white)](https://seaborn.pydata.org)
 
 #### **Database / Cloud / Environment**
